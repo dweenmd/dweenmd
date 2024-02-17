@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dween Mohammad</h1>
-<h3 align="center">Embark on the Journey of Algorithmic Excellence: From Thought to Code to Mastery in Competitive Programming</h3>
+<h3 align="center"> Algorithmic Excellence: From Thought to Code to Mastery in Competitive Programming</h3>
 
 <br/>
 <p align="center">
