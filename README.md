@@ -32,6 +32,7 @@
 <a href="https://www.leetcode.com/dweenhex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dweenhex" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dweenpn1s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dweenpn1s" height="30" width="40" /></a>
 </p>
+
  <div >
   <div style="width: 50%;" align="center" >
    <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -39,3 +40,20 @@
 </a>
   </div>
   </div>
+
+<br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
