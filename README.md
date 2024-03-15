@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **DSA and OOP**
 
-- 📫 How to reach me **dween.md01@gmail.com**
+- 📫 How to reach me 
+                **dween.gk@gmail.com**
+                **dween.md01@gmail.com**
 
 
 
