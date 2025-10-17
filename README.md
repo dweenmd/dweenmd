@@ -5,7 +5,7 @@
 <p align="center">
 
 
-- 🌱 I’m currently learning **DSA and OOP**
+- 🌱 I’m currently learning **😊**
 
 - 📫 How to reach me <br/>
                <t/> <br/>
