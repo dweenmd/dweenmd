@@ -1,49 +1,91 @@
-<h1 align="center">Hi 👋, I'm Dween Mohammad</h1>
-<h3 align="center"> Algorithmic Excellence: From Thought to Code to Mastery in Competitive Programming</h3>
+<h1 align="center">Hi, I'm Dween Mohammad 👋</h1>
 
-<br/>
 <p align="center">
-
-
-- 🌱 I’m currently learning **😊**
-
-- 📫 How to reach me <br/>
-               <t/> <br/>
-                **dween.md01@gmail.com** <br/>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dweenmd&show_icons=true&locale=en&layout=compact" alt="dweenmd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dweenmd&show_icons=true&locale=en" alt="dweenmd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dweenmd&" alt="dweenmd" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iam_dween" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_dween" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dween-m-960b4224b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dween-m-960b4224b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23429846/dween-mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23429846/dween-mohammad" height="30" width="40" /></a>
-<a href="https://fb.com/iamdween" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamdween" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dween" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dween" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dween_md01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dween_md01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dweenhex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dweenhex" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dweenhex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dweenhex" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dweenpn1s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dweenpn1s" height="30" width="40" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF7597&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+interactive%2C+3D+web+experiences;PHP+%7C+JavaScript+%7C+Three.js+%7C+MySQL;Currently+building+the+Virtual+University+LMS" alt="Typing SVG" />
 </p>
-<br/>
 
- <div >
-  <div style="width: 50%;" align="center" >
-   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=dweenmd">
-</a>
-  </div>
-  </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dweenmd&label=Profile+Views&color=ff7597&style=flat" alt="dweenmd profile views" />
+  <img src="https://img.shields.io/badge/Followers-4-f0c987?style=flat" alt="followers" />
+  <img src="https://img.shields.io/badge/Repositories-20-8a7fb0?style=flat" alt="repos" />
+  <img src="https://img.shields.io/badge/Based_in-Bangladesh-c9436b?style=flat" alt="location" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/dween-m-960b4224b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dween.md01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://twitter.com/iam_dween"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
 
+---
 
+### 👨‍💻 About Me
+
+- 🎓 Software developer & student, based in Mymensingh, Bangladesh
+- 🌐 Focused on **full-stack web development** — building complete platforms from database to UI
+- 🎨 Enjoy crafting **interactive, animated front-ends** using Three.js and modern CSS
+- 🧮 Background in competitive programming and algorithms (C/C++), which shapes how I approach problem-solving
+- 📫 Reach me at **dween.md01@gmail.com**
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎂 Birthday Website Template</h4>
+      <p>A cinematic, interactive 3D birthday website — knock-knock intro, a cuttable 3D cake, wax-sealed letter, memory timeline, and fireworks. Rebuilt into a fully reusable template driven by a single config file, with a bilingual no-code setup guide.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      </p>
+      <a href="https://github.com/dweenmd/Birthday-website-temp"><img src="https://img.shields.io/badge/📂_Repo-View_Code-8a7fb0?style=flat-square" alt="Repo"></a>
+      <a href="https://birthday-demo.xo.je/"><img src="https://img.shields.io/badge/✨_Live_Demo-FF4081?style=flat-square" alt="Live Demo"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 Virtual University Platform</h4>
+      <p>A full-stack LMS with three user roles (admin, teacher, student) — live class & attendance tracking with a teacher-triggered window, an assignment submission system with deadlines, and security-hardened authentication (prepared statements, hashed passwords, MIME-validated uploads).</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="php"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="tailwind"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40" height="40" alt="threejs"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="c"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dweenmd&show_icons=true&locale=en&theme=default" alt="dweenmd github stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dweenmd&show_icons=true&locale=en&layout=compact" alt="dweenmd top languages" height="165"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dweenmd&" alt="dweenmd streak stats" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by! Feel free to explore my repos and reach out 🤍</i></p>
