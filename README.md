@@ -54,6 +54,19 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
+      <h4>🗳️ ElectionGuard <sub>(Work in Progress)</sub></h4>
+      <p>An independent, personal exploration of blockchain-based election transparency — using Solidity smart contracts to record and verify votes on-chain, paired with a Node.js backend, a React frontend, and a custom data-collection module for Bangladeshi election data. Not affiliated with Microsoft's ElectionGuard project; built purely as a learning exercise in blockchain application development.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
+        <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black" alt="Hardhat">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+      </p>
+      <a href="https://github.com/dweenmd/ElectionGuard"><img src="https://img.shields.io/badge/📂_Repo-View_Code-8a7fb0?style=flat-square" alt="Repo"></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -79,8 +92,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dweenmd&show_icons=true&locale=en&theme=default" alt="dweenmd github stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dweenmd&show_icons=true&locale=en&layout=compact" alt="dweenmd top languages" height="165"/>
+  <img src="https://github-readme-stats-sigma-nine.vercel.app/api?username=dweenmd&show_icons=true&locale=en&theme=default" alt="dweenmd github stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=dweenmd&show_icons=true&locale=en&layout=compact" alt="dweenmd top languages" height="165"/>
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dweenmd&" alt="dweenmd streak stats" />
