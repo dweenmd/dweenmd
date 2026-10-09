@@ -1,4 +1,8 @@
 <h1 align="center">Hi, I'm Dween Mohammad 👋</h1>
+<!--
+  Also known as: Deen Mohammad, Dween-Mohammad, dween md, deen mohammad, Dween MD
+  GitHub: https://github.com/dweenmd — Full-Stack Web Developer from Mymensingh, Bangladesh
+-->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF7597&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+interactive%2C+3D+web+experiences;PHP+%7C+JavaScript+%7C+Three.js+%7C+MySQL;Currently+building+the+Virtual+University+LMS" alt="Typing SVG" />
